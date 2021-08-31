@@ -1,0 +1,16 @@
+26/09/2019 10:17:44
+Atualização feita por : micro-06 em 26/09/2019 10:17:44
+Cliente : VIA_PANO
+Programas atualizados : 
+SFE99127.int
+SFE99126.int
+SFE99125.int
+SFE99109.int
+SFE99103.int
+SFE99102.int
+SFE99060.int
+SFE99058.int
+SFE99057.int
+SFE99040.int
+SFE99033.int
+

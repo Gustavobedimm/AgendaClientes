@@ -1,0 +1,20 @@
+06/06/2019 02:03 - micro-06 - Cliente alterado. (Altha Cor Tintas (84))
+06/06/2019 02:03 - micro-06 - Cliente alterado. (Construcal - LJ 03 (CD) (12))
+06/06/2019 02:03 - micro-06 - Cliente alterado. (D Fagundes (93))
+20/08/2019 02:13 - micro-06 - Cliente adicionado. (sadii)
+20/08/2019 02:17 - micro-06 - Cliente excluido. (15.446.544/4655-56)
+20/08/2019 02:52 - micro-06 - Cliente alterado. (Agro Animal (27))
+20/08/2019 02:55 - micro-06 - Cliente alterado. (Agro Animal (27))
+20/08/2019 02:56 - micro-06 - Cliente alterado. (Agro Animal (27))
+20/08/2019 03:05 - micro-06 - Cliente alterado. (Altha Cor Tintas (84))
+20/08/2019 03:05 - micro-06 - Cliente alterado. (Aliança (53))
+20/08/2019 03:06 - micro-06 - Cliente alterado. (Aqua Tintas (22))
+20/08/2019 03:06 - micro-06 - Cliente alterado. (Argamassas  Hiper (21))
+20/08/2019 03:06 - micro-06 - Cliente alterado. (Bonamigo (40))
+20/08/2019 03:07 - micro-06 - Cliente alterado. (Concretiza (18))
+20/08/2019 03:07 - micro-06 - Cliente alterado. (Constantini (19))
+21/08/2019 15:07:47 - micro-06 - ERRO ao encontrar X:\HDS_BKP, mapeie a unidade para funcionar normalmente.
+26/08/2019 09:40:26 - micro-06 - Erro ao ler aquivo de .ERR
+26/08/2019 09:40:27 - micro-06 - Erro ao ler aquivo de .ERR
+26/08/2019 09:40:30 - micro-06 - Erro ao ler aquivo de .ERR
+25/09/2019 08:50:19 - micro-06 - ERRO ao encontrar X:\HDS_BKP, mapeie a unidade para funcionar normalmente.

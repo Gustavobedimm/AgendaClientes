@@ -1,0 +1,18 @@
+Atualização feita por : micro-06 em 26/09/2019 10:27:28
+Cliente : VIA_PANO
+Programas atualizados : 
+SFE11302.int
+SFE11301.int
+SFE11214.int
+SFE11211.int
+SFE11207.int
+SFE11206.int
+SFE11205.int
+SFE11204.int
+SFE11203.int
+SFE11202.int
+SFE11201.int
+SFE11120.int
+SFE11119.int
+SFE11118.int
+
