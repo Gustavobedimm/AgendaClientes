@@ -1,1 +1,0 @@
-NET USE X: \\192.168.1.120\HDS hds040991 /USER:hds
